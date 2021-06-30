@@ -1,0 +1,5 @@
+﻿puts('Hi '+'world')
+puts('Hi '*3)
+puts('Hi'[0])
+puts('Hi'[1])
+puts('Hi'[2])
